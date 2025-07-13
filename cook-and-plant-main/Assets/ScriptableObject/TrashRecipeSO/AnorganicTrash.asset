@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2193b53379ce5e14da2363cc08b9e811, type: 3}
+  m_Name: AnorganicTrash
+  m_EditorClassIdentifier: 
+  input:
+  - {fileID: 11400000, guid: 1b54ea54b46cfa747bc84ce1d502aacf, type: 2}
+  - {fileID: 11400000, guid: 688c34f85c319ff40a1a08e44fda5fc9, type: 2}
+  - {fileID: 11400000, guid: 72a1cbb28d8383b49ac3589b77ea695c, type: 2}
+  - {fileID: 11400000, guid: 8303b23483e9ac441b5420c6225f9aec, type: 2}
+  - {fileID: 11400000, guid: 1db4f17401999a042bb59363ce9bae4c, type: 2}
+  - {fileID: 11400000, guid: a5cf158fb444935409689bec7a8ee439, type: 2}
+  - {fileID: 11400000, guid: a8ecfb82531c4f14f90b2672e6992108, type: 2}
+  output: {fileID: 11400000, guid: 035527f6a84aade42a50310e93676e09, type: 2}

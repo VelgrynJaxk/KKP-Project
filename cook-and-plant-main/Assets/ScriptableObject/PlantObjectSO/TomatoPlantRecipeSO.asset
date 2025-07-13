@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afba4def2864e04ebdd0a5fab7bba1c, type: 3}
+  m_Name: TomatoPlantRecipeSO
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: beb18b8130a071e428f233b823ae055c, type: 2}
+  initialPlant: {fileID: 11400000, guid: 4690eecd19071e542bbac1fa4e90fc75, type: 2}
+  plant: {fileID: 11400000, guid: a9a97fc9e680b574aa5c98fcd80cb615, type: 2}
+  output: {fileID: 11400000, guid: 482229b85c236024694656742fb98d09, type: 2}
+  plantTimerMax: 10
